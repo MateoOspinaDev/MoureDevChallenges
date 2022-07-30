@@ -12,3 +12,19 @@ X
 (src/Challenge4PoligonArea/Rectangle.java,8\7\87a15ce4154328ae9765f617d094a17fc9e0b262
 U
 %src/Challenge4PoligonArea/Square.java,2\8\287a1abc300e87e4e9b33e769c99e144df4f252d
+P
+ src/OthersBasics/SortedBin2.java,9\c\9cc4db97a38b20aa0f320d0f329283d4d82a282a
+L
+src/OthersBasics/Sorted.java,8\2\82d018c36bf4c0f34a88cae8cea3963db0bb71a0
+W
+'src/OthersBasics/RegularExpresions.java,0\b\0b8016d98ee9065827b792b7d5b7c1b18b6074fc
+F
+src/OthersBasics/Regex,7\5\757584ec02c20f7ab3e3b4002359e26e73a013eb
+P
+ src/OthersBasics/Palindromo.java,c\3\c380dfd274527eb158a1448f0058458bbd1ea9e6
+K
+src/Challenge1Anagrama.java,c\d\cd47efd3331e0759018a2ce09646006b47a88f0e
+X
+(src/HDLEon/vecesQueSeRepiteCaracter.java,8\7\87030ac619a1306639090224b5dc39526c829c81
+K
+src/HDLEon/WordCounter.java,4\3\43fd349aef386baebb8049d0a9f48d7e4cdfd0ff
