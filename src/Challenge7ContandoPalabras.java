@@ -15,7 +15,6 @@ public class Challenge7ContandoPalabras {
      * - Una palabra es la misma aunque aparezca en mayúsculas y minúsculas.
      * - No se pueden utilizar funciones propias del lenguaje que lo resuelvan automáticamente.
      *
-
      */
     public static void printNumbersOfWords(String oración) {
         Map<String,Integer> contador = new HashMap<>();

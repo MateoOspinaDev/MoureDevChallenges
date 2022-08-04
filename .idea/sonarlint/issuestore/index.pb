@@ -28,3 +28,11 @@ X
 (src/HDLEon/vecesQueSeRepiteCaracter.java,8\7\87030ac619a1306639090224b5dc39526c829c81
 K
 src/HDLEon/WordCounter.java,4\3\43fd349aef386baebb8049d0a9f48d7e4cdfd0ff
+N
+src/HDLEon/InvertirCadena.java,e\a\eaeb99593bd05fce032a97bd6da438da85181b2c
+O
+src/HDLEon/HammingDistance.java,2\f\2f4133342d296c9c2a5379ef29746fd4a435451a
+L
+src/challenge2Fibonacci.java,b\b\bb92c0e943d9bc3839e684df7a100466d0a0bab2
+P
+ src/HackerRank/CountingSort.java,3\b\3beaad9ef1a95b9f3b3cfa81797ecda4b6ffa813
